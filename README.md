@@ -2,7 +2,7 @@
 
 ### Superb for everyone who loves reading random facts about space
 
-### Creqted using _NASA APOD_ API 
+### Created using _NASA APOD_ API 
 
 #### I can be contacted at:
 :e-mail: steven@xenos-design.co.uk
